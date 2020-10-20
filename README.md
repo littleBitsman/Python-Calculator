@@ -8,4 +8,4 @@ A calculator using Python!
 Python 3.8.3. Download Python [here](https://python.org)
 
 ### Credits
-100% made by littleBitsman. Thanks to one of my relatives for help with a part of this project (`calc` function)
+100% made by littleBitsman. Thanks to one of my relatives for help with a part of this project (`eval` function)
